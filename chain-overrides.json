@@ -414,10 +414,11 @@
     }
   },
   "5042": {
-"sourcifyName": "Arc",
-"rpc": [
-  "<https://rpc.arc-scan.org>"
-]  },
+    "sourcifyName": "Arc",
+    "rpc": [
+      "https://rpc.arc-scan.org"
+    ]
+  },
   "7777777": {
     "fetchContractCreationTxUsing": {
       "blockscoutApi": {
