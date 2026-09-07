@@ -409,8 +409,7 @@
   "5042002": {
     "fetchContractCreationTxUsing": {
       "blockscoutApi": {
-        "url": "https://testnet.arcscan.app/"
-      }
+"sourcifyName": "Arc", "rpc": [ "<https://rpc.arc-scan.org>" ]      }
     }
   },
   "7777777": {
